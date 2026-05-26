@@ -11,6 +11,13 @@ modern UI and interactive experiences.
 
 ---
 
+### Live preview
+
+<a href="https://gianlucca-slauton.github.io/gianlucca-evaluative-portfolio/" target="_blank">https://gianlucca-slauton.github.io/gianlucca-evaluative-portfolio/</a>
+
+<img width="1272" height="651" alt="Captura de tela 2026-05-26 203953" src="https://github.com/user-attachments/assets/44695194-2a86-4ad8-9aa1-5d812b24b384" />
+
+
 ## Features
 
 - Responsive layout 
