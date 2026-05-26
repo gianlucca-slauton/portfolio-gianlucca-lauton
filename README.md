@@ -1,4 +1,4 @@
-# 🌌 Gianlucca S. Lauton — Portfolio
+# 🌌 Gianlucca S. Lauton - Portfolio
 
 Personal portfolio developed to showcase my projects, skills,
 certificates and academic journey in Systems Development.
